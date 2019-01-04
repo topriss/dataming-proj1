@@ -14,7 +14,7 @@
 
 分类效果: 
 - f1_macro: 0.9060654857756306    
-- f1_micro: 0.9066666666666666
+- f1_micro: 0.9066666666666666 
 
 可视化: 
 ![visualize iris](result/iris_flower.png)
