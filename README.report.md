@@ -39,6 +39,11 @@
 
 可视化: 
 ![visualize iris](result/stu_man.png)
+
+## 代码说明
+- DPC/DPC.py density peak clustering 实现
+- iris_flower.py 数据集1测试
+- studen_knowledge.py 数据集2测试
  
 ## 总结
 density peak clustering 在简单的数据集上表现较好; 在复杂的数据集上, 需要
